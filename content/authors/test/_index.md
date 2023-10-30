@@ -1,6 +1,6 @@
 ---
-title: Test
-role: Ph.D. Candidate
+title: Brenton Lin
+role: M.S. Student
 avatar_filename: avatar.jpg
 interests:
   - Extended Reality
