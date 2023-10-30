@@ -1,7 +1,7 @@
 ---
 title: Jacob Belga
 role: Ph.D. Candidate
-avatar_filename: avatar
+avatar_filename: jakepfp.jpg
 bio: ""
 social:
   - display:
@@ -9,6 +9,8 @@ social:
     link: mailto:jacob.belga@ucf.edu
     icon: envelope
     icon_pack: far
+education:
+  courses: []
 superuser: false
 user_groups:
   - Grad Students
