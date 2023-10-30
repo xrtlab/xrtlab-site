@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     icon_pack: far
-    icon: Standard
+    icon: standard
     link: https://www.linkedin.com/in/qidi-wang/
     label: LinkedIn
 superuser: false
