@@ -1,7 +1,7 @@
 ---
 title: Jacob Belga
 role: Ph.D. Candidate
-avatar_filename: jakepfp.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - display:
@@ -11,15 +11,15 @@ social:
     icon_pack: far
 education:
   courses:
-    - course: B.S. Computer Science
-      institution: University of Central Florida
-      year: 2020
-    - course: M.S. Computer Science
-      institution: University of Central Florida
-      year: 2023
     - course: Ph.D. Computer Science
       institution: University of Central Florida
       year: ""
+    - course: M.S. Computer Science
+      institution: University of Central Florida
+      year: 2023
+    - course: B.S. Computer Science
+      institution: University of Central Florida
+      year: 2020
 superuser: false
 user_groups:
   - Grad Students
