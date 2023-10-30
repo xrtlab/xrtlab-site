@@ -5,9 +5,10 @@ authors:
   - Annie S Wu
   - Ryan P. McMahan
 date: 2022-01-01
-publishDate: 2023-10-30T03:07:40.274510Z
+publishDate: 2023-10-30T03:07:40.274Z
 publication_types:
   - paper-conference
+doi: 10.1109/VR51125.2022.00046
 publication: "*2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*"
 abstract: Virtual reality (VR) researchers have had a long-standing interest in
   studying locomotion for developing new techniques, improving upon prior ones,
