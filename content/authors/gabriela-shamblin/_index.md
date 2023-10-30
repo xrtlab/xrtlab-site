@@ -25,12 +25,12 @@ organizations:
   - name: University of Central Florida
 education:
   courses:
-    - course: BS in Computer Science
-      institution: University of Central Florida
-      year: 2023
     - course: MS in Computer Science
       institution: University of Central Florida
       year: 2024
+    - course: BS in Computer Science
+      institution: University of Central Florida
+      year: 2023
 superuser: false
 user_groups:
   - Undergrad Students
