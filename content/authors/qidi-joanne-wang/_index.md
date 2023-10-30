@@ -9,4 +9,6 @@ social:
     icon: envelope
     link: mailto:qidi.wang@ucf.edu
 superuser: false
+user_groups:
+  - Undergrad Students
 ---
