@@ -15,6 +15,12 @@ social:
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
+  - display:
+      header: false
+    link: https://www.youtube.com/channel/UCzyOgtGvN-X7MkaP_amMYNg
+    icon_pack: fab
+    icon: youtube
+    label: Youtube
 organizations:
   - name: University of Central Florida
 education:
