@@ -1,7 +1,7 @@
 ---
 title: Gabriela Shamblin
 role: Undergraduate Student
-avatar_filename: hugv_eg4_edited.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
