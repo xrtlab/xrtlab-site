@@ -10,7 +10,16 @@ social:
     icon: envelope
     icon_pack: far
 education:
-  courses: []
+  courses:
+    - course: B.S. Computer Science
+      institution: University of Central Florida
+      year: 2020
+    - course: M.S. Computer Science
+      institution: University of Central Florida
+      year: 2023
+    - course: Ph.D. Computer Science
+      institution: University of Central Florida
+      year: ""
 superuser: false
 user_groups:
   - Grad Students
