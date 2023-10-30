@@ -8,7 +8,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/jacobbelga/
     icon: linkedin
-    icon_pack: far
+    icon_pack: ai
 superuser: false
 user_groups:
   - Grad Students
