@@ -29,3 +29,4 @@ superuser: false
 user_groups:
   - Undergrad Students
 ---
+Personal site: <https://gabyshamblin.github.io/>
