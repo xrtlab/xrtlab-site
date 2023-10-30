@@ -11,9 +11,9 @@ social:
   - display:
       header: false
     icon_pack: far
-    icon: standard
+    icon: linkedin
     link: https://www.linkedin.com/in/qidi-wang/
-    label: LinkedIn
+    label: ""
 superuser: false
 user_groups:
   - Undergrad Students
