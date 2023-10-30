@@ -1,7 +1,7 @@
 ---
 title: Nayan Chawla
 role: Professor of Mixology
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Extended Reality
