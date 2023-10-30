@@ -1,6 +1,6 @@
 ---
 title: Nayan Chawla
-role: PhD Student in Computer Science
+role: Ph.D. Student
 avatar_filename: nayan.jpg
 bio: ""
 interests:
