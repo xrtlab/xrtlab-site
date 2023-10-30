@@ -2,6 +2,10 @@
 title: Tiffany D. Do
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
+interests:
+  - Extended Reality
+  - Human-Centered AI
+  - Accessibility
 social:
   - display:
       header: false
