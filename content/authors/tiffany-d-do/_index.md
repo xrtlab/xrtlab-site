@@ -33,4 +33,4 @@ user_groups:
 
 ️ I am a Ph.D. candidate in Computer Science at the University of Central Florida, focusing on Human-Centered AI, extended reality (VR/AR), and virtual avatars. My research focuses on how individuals of diverse abilities and identities engage with AI and computing. I am dedicated to developing AI systems that value and prioritize the uniqueness of individuals, their cultures, and personalities.
 
-I also created this website.
+I also created this website!
