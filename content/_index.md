@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        XRT Lab
       image:
-        filename: welcome.jpg
+        filename: logo.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **XRT Lab** is  a center of excellence for Virtual, Augmented, and Extended Reality Research at The University of Central Florida.
   
   - block: collection
     content:
@@ -33,35 +32,34 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact
       columns: '1'
-  
-  - block: markdown
+  - block: collection
+    id: featured
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
+      columns: '2'
+      view: compact
+  - block: collection
+    id: publications
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
     design:
-      columns: '1'
+      columns: '2'
+      view: citation
+  
+  
 ---
