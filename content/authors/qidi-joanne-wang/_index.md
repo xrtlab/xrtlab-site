@@ -1,7 +1,7 @@
 ---
 title: Qidi (Joanne) Wang
 role: Undergraduate Student
-avatar_filename: ""
+avatar_filename: avatar.png
 social:
   - display:
       header: false
