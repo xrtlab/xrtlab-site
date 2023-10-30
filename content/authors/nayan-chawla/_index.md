@@ -1,7 +1,7 @@
 ---
 title: Nayan Chawla
 role: Ph.D. Student
-avatar_filename: nayan.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Large-Language-Models
