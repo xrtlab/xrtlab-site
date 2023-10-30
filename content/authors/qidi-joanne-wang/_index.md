@@ -8,6 +8,11 @@ social:
     icon_pack: far
     icon: envelope
     link: mailto:qidi.wang@ucf.edu
+  - display:
+      header: false
+    icon_pack: far
+    icon: envelope
+    link: https://www.linkedin.com/in/qidi-wang/
 superuser: false
 user_groups:
   - Undergrad Students
