@@ -6,9 +6,9 @@ bio: ""
 social:
   - display:
       header: false
-    link: https://www.linkedin.com/in/jacobbelga/
-    icon: linkedin
-    icon_pack: ai
+    link: mailto:jacob.belga@ucf.edu
+    icon: envelope
+    icon_pack: far
 superuser: false
 user_groups:
   - Grad Students
