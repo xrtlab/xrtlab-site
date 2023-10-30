@@ -15,4 +15,6 @@ social:
     icon: None
 organizations: []
 superuser: false
+user_groups:
+  - Grad Students
 ---
