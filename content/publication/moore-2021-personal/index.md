@@ -10,7 +10,7 @@ date: 2021-01-01
 publishDate: 2023-10-30T03:07:40.288Z
 publication_types:
   - paper-conference
-doi: https://ieeexplore.ieee.org/abstract/document/9583839
+doi: 10.1109/ISMAR52148.2021.00037
 publication: "*2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*"
 abstract: Recent research indicates that user tracking data from virtual reality
   (VR) experiences can be used to personally identify users with degrees of
