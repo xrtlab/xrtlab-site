@@ -2,9 +2,7 @@
 title: Nayan Chawla
 role: Professor of Mixology
 avatar_filename: avatar.jpg
-bio: As a Mixologist, Chawla has dedicated much of his life to the art of
-  crafting Mixed cocktails, Augmented with Virtually nothing but the finest
-  drank east of the Mississippi.
+bio: ""
 interests:
   - Extended Reality
   - Human-Centered AI
@@ -29,3 +27,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
+As a Mixologist, Chawla has dedicated much of his life to the art of crafting Mixed cocktails, Augmented with Virtually nothing but the finest drank east of the Mississippi.
