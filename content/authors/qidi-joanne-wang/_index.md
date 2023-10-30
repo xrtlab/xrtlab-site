@@ -10,7 +10,7 @@ social:
     link: mailto:qidi.wang@ucf.edu
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/qidi-wang/
     label: ""
