@@ -1,5 +1,5 @@
 ---
-title: Cal Protko
+title: Camille (Cal) Protko
 role: Undergraduate Student
 avatar_filename: 7040ef84-e874-4530-b886-49bfe2a1c9eb.jpg
 social:
@@ -12,9 +12,9 @@ organizations:
   - name: University of Central Florida
 education:
   courses:
-    - course: BS in Information Technology
+    - course: BS in Computer Science
       institution: University of Central Florida
-      year: 2025
+      year: 2026
 superuser: false
 user_groups:
   - Undergrad Students
