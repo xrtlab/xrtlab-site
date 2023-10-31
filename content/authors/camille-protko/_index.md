@@ -1,7 +1,7 @@
 ---
-title: Camille Protko
+title: Cal Protko
 role: Undergraduate Student
-avatar_filename: avatar
+avatar_filename: 7040ef84-e874-4530-b886-49bfe2a1c9eb.jpg
 social:
   - display:
       header: false
