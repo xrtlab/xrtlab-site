@@ -18,10 +18,10 @@ url_pdf: https://arxiv.org/pdf/2309.10902.pdf
 publication_types:
   - preprint
 authors:
-  - Tiffany D. Do
+  - Tiffany D Do
   - Steve Zelenty
   - Mar Gonzalez-Franco
-  - Ryan P. McMahan
+  - Ryan P McMahan
 url_dataset: https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID
 url_video: https://youtu.be/FVxy5Bbni-s
 title: "VALID: A perceptually validated Virtual Avatar Library for Inclusion and
@@ -32,6 +32,6 @@ date: 2023-09-16
 links:
   - name: Google Research
     url: https://research.google/pubs/pub52638/
-publishDate: 2023-10-28T20:44:55.457221Z
+publishDate: 2023-10-28T20:44:55.457Z
 doi: 10.48550/arXiv.2309.10902
 ---
