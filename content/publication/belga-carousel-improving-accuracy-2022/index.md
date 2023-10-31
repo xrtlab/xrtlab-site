@@ -3,12 +3,12 @@ title: "Carousel: Improving the Accuracy of Virtual Reality Assessments for
   Inspection Training Tasks"
 authors:
   - Jacob Belga
-  - Tiffany D. Do
+  - Tiffany D Do
   - Ryan Ghamandi
-  - Ryan P. McMahan
-  - Joseph J. LaViola
+  - Ryan P McMahan
+  - Joseph J LaViola
 date: 2022-11-01
-publishDate: 2023-10-29T22:05:37.935665Z
+publishDate: 2023-10-29T22:05:37.935Z
 publication_types:
   - paper-conference
 doi: 10.1145/3562939.3565618

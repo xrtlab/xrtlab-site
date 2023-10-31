@@ -3,7 +3,7 @@ title: Research trends in virtual reality locomotion techniques
 authors:
   - Esteban Segarra Martinez
   - Annie S Wu
-  - Ryan P. McMahan
+  - Ryan P McMahan
 date: 2022-01-01
 publishDate: 2023-10-30T03:07:40.274Z
 publication_types:
