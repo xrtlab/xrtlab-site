@@ -12,9 +12,9 @@ social:
     label: LinkedIn
   - display:
       header: false
-    link: esteban.segarra@ucf.edu
+    link: mailto:esteban.segarra@ucf.edu
     icon_pack: far
-    icon: email
+    icon: envelope
 email: esteban.segarra@ucf.edu
 superuser: false
 user_groups:
