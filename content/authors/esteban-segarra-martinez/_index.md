@@ -19,13 +19,18 @@ social:
       header: false
     link: https://overcodedstack.github.io/
     icon_pack: far
-    icon: cube
+    icon: square
     label: Personal Website
   - display:
       header: false
     link: https://github.com/OvercodedStack
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=2Vmd79sAAAAJ&hl=en
+    icon_pack: ai
+    icon: googlescholar
 organizations:
   - name: University of Central Florida
 email: ""
