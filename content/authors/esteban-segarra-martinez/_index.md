@@ -1,7 +1,7 @@
 ---
 title: Esteban Segarra Martinez
 role: Graduate Research Student
-avatar_filename: 1566190302158.jpg
+avatar_filename: avatar.jpg
 bio: Point clouds, virtual reality, augmented reality, and everything in-between
 social:
   - display:
@@ -15,7 +15,9 @@ social:
     link: mailto:esteban.segarra@ucf.edu
     icon_pack: far
     icon: envelope
-email: esteban.segarra@ucf.edu
+organizations:
+  - name: University of Central Florida
+email: ""
 superuser: false
 user_groups:
   - Grad Students
