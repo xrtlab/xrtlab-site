@@ -19,7 +19,7 @@ social:
       header: false
     link: https://overcodedstack.github.io/
     icon_pack: far
-    icon: window
+    icon: code
     label: Personal Website
   - display:
       header: false
