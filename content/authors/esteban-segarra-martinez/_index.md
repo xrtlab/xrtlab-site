@@ -2,7 +2,7 @@
 title: Esteban Segarra Martinez
 role: CS PhD Candidate
 avatar_filename: avatar.jpg
-bio: Point clouds, virtual reality, augmented reality, and everything in-between
+bio: Point clouds, virtual reality, augmented reality, evolutionary algorithms
 social:
   - display:
       header: false
@@ -15,6 +15,17 @@ social:
     link: mailto:esteban.segarra@ucf.edu
     icon_pack: far
     icon: envelope
+  - display:
+      header: false
+    link: https://overcodedstack.github.io/
+    icon_pack: far
+    icon: website
+    label: Personal Website
+  - display:
+      header: false
+    link: https://github.com/OvercodedStack
+    icon_pack: fab
+    icon: github
 organizations:
   - name: University of Central Florida
 email: ""
