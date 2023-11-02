@@ -24,7 +24,7 @@ education:
       year: 2019
     - course: B.S. in Computer Science
       institution: University of Texas at Dallas
-      year: 2012
+      year: 2018
 superuser: false
 user_groups:
   - Grad Students
