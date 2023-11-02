@@ -1,6 +1,6 @@
 ---
 title: Esteban Segarra Martinez
-role: Graduate Research Student
+role: CS PhD Candidate
 avatar_filename: avatar.jpg
 bio: Point clouds, virtual reality, augmented reality, and everything in-between
 social:
