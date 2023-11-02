@@ -19,7 +19,7 @@ social:
       header: false
     link: https://overcodedstack.github.io/
     icon_pack: far
-    icon: website
+    icon: window
     label: Personal Website
   - display:
       header: false
@@ -33,3 +33,9 @@ superuser: false
 user_groups:
   - Grad Students
 ---
+My research primarily has been the development of in-house tools that are required in the virtual reality (VR) and point cloud environments. My interest in these two fields are to research and develop solutions to best provide photo-realistic visualizations in VR using synthetically generated images from point clouds. My goals are to provide open source tools that amplify research in this domain, study the current pitfalls and improvements of synthetically rendering point clouds, and evaluating the final results of the synthetic data.
+
+My current tools include:
+
+* RecolorCloud
+* The CLEVER VR tool
