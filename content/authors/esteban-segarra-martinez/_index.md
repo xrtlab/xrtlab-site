@@ -10,6 +10,13 @@ social:
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
+  - display:
+      header: false
+    link: esteban.segarra@ucf.edu
+    icon_pack: far
+    icon: email
 email: esteban.segarra@ucf.edu
 superuser: false
+user_groups:
+  - Grad Students
 ---
