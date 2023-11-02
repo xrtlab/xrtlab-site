@@ -30,9 +30,17 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=2Vmd79sAAAAJ&hl=en
     icon_pack: ai
-    icon: googlescholar
+    icon: google-scholar
 organizations:
   - name: University of Central Florida
+education:
+  courses:
+    - course: Masters in Computer Science
+      institution: University of Central Florida
+      year: 2022
+    - course: Batchelors in Computer Engineering
+      institution: Florida Polytechnic University
+      year: 2019
 email: ""
 superuser: false
 user_groups:
