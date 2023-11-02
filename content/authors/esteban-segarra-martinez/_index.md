@@ -2,7 +2,13 @@
 title: Esteban Segarra Martinez
 role: CS PhD Candidate
 avatar_filename: avatar.jpg
-bio: Point clouds, virtual reality, augmented reality, evolutionary algorithms
+bio: Researcher and developer for evaluating photo-realistic renders of point
+  clouds.
+interests:
+  - Point clouds
+  - virtual reality
+  - augmented reality
+  - evolutionary algorithms
 social:
   - display:
       header: false
