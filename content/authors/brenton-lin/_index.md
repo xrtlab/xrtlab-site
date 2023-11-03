@@ -4,14 +4,20 @@ role: M.S. Student
 avatar_filename: img_0436.jpg
 interests:
   - Extended Reality
-  - Human-Centered AI
-  - Accessibility
+  - AI
+  - Virtual-Environments
 social:
   - display:
       header: false
     link: mailto:brenton.lin@ucf.edu
     icon_pack: far
     icon: envelope
+  - display:
+      header: false
+    icon_pack: far
+    icon: linkedin
+    label: LinkedIn
+    link: https://www.linkedin.com/in/brenton-lin-61570b11a/
 organizations:
   - name: University of Central Florida
 education:
