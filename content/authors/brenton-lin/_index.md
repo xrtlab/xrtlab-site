@@ -14,7 +14,7 @@ social:
     icon: envelope
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     icon: linkedin
     label: LinkedIn
     link: https://www.linkedin.com/in/brenton-lin-61570b11a/
