@@ -2,6 +2,8 @@
 title: Brenton Lin
 role: M.S. Student
 avatar_filename: img_0436.jpg
+# append 3 for MS students
+date_joined: 320230801
 interests:
   - Extended Reality
   - AI

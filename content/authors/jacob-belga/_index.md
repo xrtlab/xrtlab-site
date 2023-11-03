@@ -2,6 +2,7 @@
 title: Jacob Belga
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
+date_joined: 20210805
 bio: ""
 social:
   - display:

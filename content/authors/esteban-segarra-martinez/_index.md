@@ -2,6 +2,7 @@
 title: Esteban Segarra Martinez
 role: CS PhD Candidate
 avatar_filename: avatar.jpg
+date_joined: 20200801
 bio: Researcher and developer for evaluating photo-realistic renders of point
   clouds.
 interests:

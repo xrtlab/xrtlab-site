@@ -5,17 +5,30 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        XRT Lab
-      image:
-        filename: logo.png
-      text: |
-        <br>
-        
-        The **XRT Lab** is  a center of excellence for Virtual, Augmented, and Extended Reality Research at The University of Central Florida.
-  
+      slides:
+        - title: 👋 Welcome to The XRT Lab
+          content: The **eXtended Reality & Training (XRT) Lab** at The University of Central Florida focuses on using extended reality (XR) and virtual reality (VR) technologies to facilitate and enhance training and education.
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
+              filters:
+                brightness: 0.6
+            position: right
+            color: '#666'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '600px'
+      # Make the slides full screen within the browser window?
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
   - block: collection
     content:
       title: Latest News

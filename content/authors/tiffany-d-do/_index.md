@@ -2,6 +2,7 @@
 title: Tiffany D Do
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
+date_joined: 20200105
 social:
   - display:
       header: false
