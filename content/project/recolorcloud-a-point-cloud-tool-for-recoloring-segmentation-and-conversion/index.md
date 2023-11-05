@@ -4,7 +4,7 @@ date: 2023-11-05T00:20:30.966Z
 draft: false
 featured: false
 tags:
-  - tools
+  - Tools
 image:
   filename: featured
   focal_point: Smart
