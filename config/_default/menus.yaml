@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 50
   - name: Datasets
-    url: datasets
+    url: /tag/datasets
     weight: 50
   - name: Contact
     url: contact
