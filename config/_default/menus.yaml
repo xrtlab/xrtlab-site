@@ -6,18 +6,21 @@
 main:
   - name: Home
     url:
-    weight: 20
+    weight: 10
   - name: News
     url: post
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: Publications
     url: publication
-    weight: 50
+    weight: 30
   - name: Datasets
     url: /tag/datasets
+    weight: 40
+  - name: Tools
+    url: /tag/tools
+    weight: 45
+  - name: People
+    url: people
     weight: 50
   - name: Contact
     url: contact
