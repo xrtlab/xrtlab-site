@@ -6,7 +6,9 @@ draft: false
 featured: false
 authors:
   - Tiffany D Do
+  - Steve Zelenty
   - Ryan P McMahan
+  - Mar Gonzalez-Franco
 tags:
   - Datasets
 links:
