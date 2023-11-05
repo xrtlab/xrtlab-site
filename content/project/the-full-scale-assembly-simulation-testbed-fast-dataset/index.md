@@ -3,9 +3,14 @@ title: "The Full-scale Assembly Simulation Testbed (FAST) Dataset "
 date: 2023-11-05T19:39:00.355Z
 draft: false
 featured: false
+authors:
+  - Alec G Moore
+  - Tiffany D Do
+  - Ryan P McMahan
 tags:
   - Datasets
 categories: []
+external_link: ""
 links:
   - url: https://github.com/tapiralec/Identifying_Virtual_Reality_Users_Across_Domain_Specific_Tasks/blob/main/Participants.csv
     icon_pack: fab
