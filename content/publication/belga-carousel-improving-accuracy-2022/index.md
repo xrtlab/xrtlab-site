@@ -1,17 +1,14 @@
 ---
 title: "Carousel: Improving the Accuracy of Virtual Reality Assessments for
   Inspection Training Tasks"
+publication_types:
+  - paper-conference
 authors:
   - Jacob Belga
   - Tiffany D Do
   - Ryan Ghamandi
   - Ryan P McMahan
   - Joseph J LaViola
-date: 2022-11-01
-publishDate: 2023-10-29T22:05:37.935Z
-publication_types:
-  - paper-conference
-doi: 10.1145/3562939.3565618
 publication: "*28th ACM Symposium on Virtual Reality Software and Technology* (VRST)"
 abstract: "Training simulations in virtual reality (VR) have become a focal
   point of both research and development due to allowing users to familiarize
@@ -21,4 +18,8 @@ abstract: "Training simulations in virtual reality (VR) have become a focal
   assessments accurate? Many VR training programs, particularly those focused on
   inspection tasks, employ simple pass or fail assessments. However, these types
   of assessments do not necessarily reflect the user's knowledge."
+featured: true
+date: 2022-11-01
+publishDate: 2023-10-29T22:05:37.935Z
+doi: 10.1145/3562939.3565618
 ---
