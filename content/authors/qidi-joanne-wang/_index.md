@@ -3,8 +3,8 @@ title: Qidi (Joanne) Wang
 role: Undergraduate Student
 avatar_filename: avatar.jpg
 interests:
-  - Machine-Learning
-  - Virtual-Reality
+  - Machine Learning
+  - Virtual Reality
 social:
   - display:
       header: false
