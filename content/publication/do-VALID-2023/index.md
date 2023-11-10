@@ -16,7 +16,7 @@ abstract: As consumer adoption of immersive technologies grows, virtual avatars
   participants of the same race.
 url_pdf: https://arxiv.org/pdf/2309.10902.pdf
 publication_types:
-  - preprint
+  - journal-article
 authors:
   - Tiffany D Do
   - Steve Zelenty
@@ -26,12 +26,12 @@ url_dataset: https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-an
 url_video: https://youtu.be/FVxy5Bbni-s
 title: "VALID: A perceptually validated Virtual Avatar Library for Inclusion and
   Diversity"
-publication: "*Preprint*"
+publication: "Frontiers in Virtual Reality"
 featured: true
 date: 2023-09-16
 links:
   - name: Google Research
     url: https://research.google/pubs/pub52638/
 publishDate: 2023-10-28T20:44:55.457Z
-doi: 10.48550/arXiv.2309.10902
+doi: 10.3389/frvir.2023.1248915
 ---
