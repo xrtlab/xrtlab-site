@@ -18,4 +18,6 @@ social:
     icon_pack: far
     icon: Envelope
 superuser: false
+user_groups:
+  - Undergrad Students
 ---
