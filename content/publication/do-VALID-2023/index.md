@@ -16,7 +16,7 @@ abstract: As consumer adoption of immersive technologies grows, virtual avatars
   participants of the same race.
 url_pdf: https://arxiv.org/pdf/2309.10902.pdf
 publication_types:
-  - journal-article
+  - article-journal
 authors:
   - Tiffany D Do
   - Steve Zelenty
