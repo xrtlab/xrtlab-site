@@ -2,7 +2,11 @@
 title: Tiffany D Do
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
-date_joined: 20200105
+interests:
+  - Human-Centered AI
+  - VR/AR/XR
+  - Virtual Agents
+  - Accessibility
 social:
   - display:
       header: false
@@ -29,6 +33,7 @@ education:
 superuser: false
 user_groups:
   - Grad Students
+date_joined: 20200105
 ---
 ☕ Personal site: <https://zyrcant.github.io/>
 
