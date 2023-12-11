@@ -26,7 +26,7 @@ url_dataset: https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-an
 url_video: https://youtu.be/FVxy5Bbni-s
 title: "VALID: A perceptually validated Virtual Avatar Library for Inclusion and
   Diversity"
-publication: "Frontiers in Virtual Reality"
+publication: Frontiers in Virtual Reality 4
 featured: true
 date: 2023-09-16
 links:
