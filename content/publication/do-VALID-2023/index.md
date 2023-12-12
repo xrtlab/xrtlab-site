@@ -28,7 +28,7 @@ title: "VALID: A perceptually validated Virtual Avatar Library for Inclusion and
   Diversity"
 publication: Frontiers in Virtual Reality 4
 featured: true
-date: 2023-09-16
+date: 2023-11-01
 links:
   - name: Google Research
     url: https://research.google/pubs/pub52638/
