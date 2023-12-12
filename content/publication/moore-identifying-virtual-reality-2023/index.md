@@ -7,7 +7,8 @@ authors:
 - Nicholas Ruozzi
 - Ryan P McMahan
 date: '2023-10-01'
-publishDate: '2023-10-01T22:05:37.981497Z'
+publishDate: '2023-10-29T22:05:37.981497Z'
+doi: 10.1109/ISMAR59233.2023.00054
 publication_types:
 - paper-conference
 publication: '*2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*'
