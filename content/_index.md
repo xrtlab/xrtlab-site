@@ -15,7 +15,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: coders.jpg
+              filename: header.jpg
               filters:
                 brightness: 0.6
             position: right
