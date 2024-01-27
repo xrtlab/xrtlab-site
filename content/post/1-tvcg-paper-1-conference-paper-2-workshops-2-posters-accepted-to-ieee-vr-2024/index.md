@@ -7,10 +7,6 @@ featured: false
 authors:
   - Ryan P McMahan
   - Tiffany D Do
-  - Esteban Segarra Martinez
-  - Ayesha Malik
-  - Camille (Cal) Protko
-  - Qidi (Joanne) Wang
 image:
   filename: featured
   focal_point: Smart
@@ -28,10 +24,10 @@ Congratulations to XRT Lab members for their acceptances at IEEE VR 2024: The 31
 
 **Workshop Papers**
 
-* Tiffany D. Do, [Camille Isabella Protko](https://xrtlab.github.io/xrtlab-site/author/camille-cal-protko/), and Ryan P. McMahan. "The Influence of Mixed-Gender Avatar Facial Features on Racial Perception: Insights from the VALID Avatar Library"
-* Esteban Segarra Martinez, Ayesha A. Malik, and Ryan P. McMahan. "CLOVR: Collecting and Logging OpenVR Data from SteamVR Applications"
+* [Tiffany D. Do](https://xrtlab.github.io/xrtlab-site/author/tiffany-d-do/), [Camille Isabella Protko](https://xrtlab.github.io/xrtlab-site/author/camille-cal-protko/), and Ryan P. McMahan. "The Influence of Mixed-Gender Avatar Facial Features on Racial Perception: Insights from the VALID Avatar Library"
+* [Esteban Segarra Martinez](https://xrtlab.github.io/xrtlab-site/author/esteban-segarra-martinez/), [Ayesha A. Malik](https://xrtlab.github.io/xrtlab-site/author/ayesha-malik/), and [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/). "CLOVR: Collecting and Logging OpenVR Data from SteamVR Applications"
 
 **Posters**
 
-* Qidi J. Wang and Ryan P. McMahan. "Gender Identification of VR Users by Machine Learning Tracking Data"
-* [Camille Isabella Protko](https://xrtlab.github.io/xrtlab-site/author/camille-cal-protko/), Ryan P. McMahan, and Tiffany D. Do. "Lessons Learned in Designing Racially Diverse Androgynous Avatars"
+* [Qidi J. Wang](https://xrtlab.github.io/xrtlab-site/author/qidi-joanne-wang/) and [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/). "Gender Identification of VR Users by Machine Learning Tracking Data"
+* [Camille Isabella Protko](https://xrtlab.github.io/xrtlab-site/author/camille-cal-protko/), [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/), and [Tiffany D. Do.](https://xrtlab.github.io/xrtlab-site/author/tiffany-d-do/) "Lessons Learned in Designing Racially Diverse Androgynous Avatars"
