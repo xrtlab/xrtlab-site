@@ -34,5 +34,6 @@ education:
 superuser: false
 user_groups:
   - Grad Students
+date_joined: 20240127
 ---
 Personal site: <https://gabyshamblin.github.io/>
