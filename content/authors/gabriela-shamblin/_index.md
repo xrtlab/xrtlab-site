@@ -1,6 +1,6 @@
 ---
 title: Gabriela Shamblin
-role: Undergraduate Student
+role: M.S. Student
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -33,6 +33,6 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Undergrad Students
+  - Grad Students
 ---
 Personal site: <https://gabyshamblin.github.io/>
