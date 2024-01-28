@@ -1,8 +1,7 @@
 ---
 title: Esteban Segarra Martinez
-role: CS PhD Candidate
+role: Ph.D. Candidate
 avatar_filename: avatar.jpg
-date_joined: 20200801
 bio: Researcher and developer for evaluating photo-realistic renders of point
   clouds.
 interests:
@@ -48,10 +47,11 @@ education:
     - course: Batchelors in Computer Engineering
       institution: Florida Polytechnic University
       year: 2019
-email: ""
 superuser: false
 user_groups:
   - Grad Students
+date_joined: 20200801
+email: ""
 ---
 My research primarily has been the development of in-house tools that are required in the virtual reality (VR) and point cloud environments. My interest in these two fields are to research and develop solutions to best provide photo-realistic visualizations in VR using synthetically generated images from point clouds. My goals are to provide open source tools that amplify research in this domain, study the current pitfalls and improvements of synthetically rendering point clouds, and evaluating the final results of the synthetic data.
 
