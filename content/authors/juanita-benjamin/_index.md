@@ -2,7 +2,12 @@
 title: Juanita Benjamin
 role: Ph.D. Student
 avatar_filename: avatar
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: far
+    icon: envelope
+    link: mailto:juanita.benjamin@ucf.edu
 education:
   courses:
     - course: Ph.D. in Computer Science
