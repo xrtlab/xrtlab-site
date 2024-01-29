@@ -1,7 +1,7 @@
 ---
 title: Juanita Benjamin
 role: Ph.D. Student
-avatar_filename: jb_selfie.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
@@ -17,3 +17,8 @@ user_groups:
   - Grad Students
 date_joined: 20210806
 ---
+P﻿ersonal Website: <!--StartFragment-->
+
+[juanita-benjamin.github.io/Juanita.com/](https://juanita-benjamin.github.io/Juanita.com/)
+
+<!--EndFragment-->
