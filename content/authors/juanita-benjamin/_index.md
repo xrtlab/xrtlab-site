@@ -1,7 +1,7 @@
 ---
 title: Juanita Benjamin
 role: Ph.D. Student
-avatar_filename: avatar
+avatar_filename: 20190802_173721-2-.jpg
 social:
   - display:
       header: false
