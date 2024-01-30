@@ -1,5 +1,5 @@
 ---
-title: 1 TVCG paper, 1 Conference paper, 2 Workshops, 2 Posters accepted to IEEE
+title: 1 TVCG paper, 1 Conference paper, 2 Workshops, 3 Posters accepted to IEEE
   VR 2024!
 date: 2024-01-27T20:47:51.397Z
 draft: false
@@ -31,3 +31,4 @@ Congratulations to XRT Lab members for their acceptances at IEEE VR 2024: The 31
 
 * [Qidi J. Wang](https://xrtlab.github.io/xrtlab-site/author/qidi-joanne-wang/) and [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/). "Gender Identification of VR Users by Machine Learning Tracking Data"
 * [Camille Isabella Protko](https://xrtlab.github.io/xrtlab-site/author/camille-cal-protko/), [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/), and [Tiffany D. Do.](https://xrtlab.github.io/xrtlab-site/author/tiffany-d-do/) "Lessons Learned in Designing Racially Diverse Androgynous Avatars"
+* [Nayan N. Chawla](https://xrtlab.github.io/xrtlab-site/author/nayan-chawla/), Joseph J. LaViola Jr., and [Ryan P. McMahan](https://xrtlab.github.io/xrtlab-site/author/ryan-p-mcmahan/). "A Methodology for Predicting User Curvature Perception of 3D Objects"
