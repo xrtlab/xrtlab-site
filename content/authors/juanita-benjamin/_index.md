@@ -12,6 +12,9 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Central Florida
+    - course: Bachelor's of Science
+      institution: Texas Tech University
+      year: 2022
 superuser: false
 user_groups:
   - Grad Students
